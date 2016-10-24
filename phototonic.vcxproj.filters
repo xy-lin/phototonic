@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts;xlf</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts;xlf</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{b304258b-d83e-40be-8189-30a2905b2e1a}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{0592d0ab-7f7b-4fe8-80ab-be71c4aa5e34}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bookmarks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="croprubberband.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dialogs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dircompleter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fstree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="imageview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="infoview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mdcache.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tags.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="thumbview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_bookmarks.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_bookmarks.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_dialogs.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_dialogs.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_dircompleter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_dircompleter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_fstree.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_fstree.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_imageview.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_imageview.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_infoview.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_infoview.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_mainwindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_mainwindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_tags.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_tags.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_thumbview.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_thumbview.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_phototonic.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="bookmarks.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="croprubberband.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="dialogs.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="dircompleter.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="fstree.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="imageview.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="infoview.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="mdcache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="tags.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="thumbview.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="translations\phototonic_bs.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_cs.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_de.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_en.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_fr.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_hr.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_pl.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_ru.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+    <None Include="translations\phototonic_sr.ts">
+      <Filter>Translation Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\about.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\bookmarks.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\bottom.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\busy.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\clear.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\colors.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\copy.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\crop.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\cut.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\delete.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\duplicates.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\error_image.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\first.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\flipH.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\flipV.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\home.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\last.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\new.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\new_bookmark.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\new_folder.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\new_tag.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\next.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\no_image.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\paste.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\phototonic.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="phototonic.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="translations\phototonic_bs.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="translations\phototonic_cs.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="translations\phototonic_de.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="translations\phototonic_fr.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="translations\phototonic_hr.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="translations\phototonic_pl.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="translations\phototonic_ru.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="translations\phototonic_sr.qm">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\play.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\refresh.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\rotate_left.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\rotate_right.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\save.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\save_as.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\scale.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\settings.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\stop.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tag_filter_negate.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tag_filter_off.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tag_filter_on.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tag_grey.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tag_multi.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tag_yellow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\top.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\tree.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\up.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\zoom.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\zoom1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\zoom_in.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\zoom_out.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

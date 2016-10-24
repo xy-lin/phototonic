@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Phototonic
+Name[de]=Phototonic
+Name[fr]=Phototonic
+Comment=View photos on your computer
+Comment[de]=Photos betrachten und verwalten
+Comment[fr]=Visionner et gérer des photos sur votre ordinateur
+GenericName=Image Viewer
+GenericName[de]=Bildbetrachter
+GenericName[fr]=Visionneuse d'images
+Exec=phototonic %F
+Icon=phototonic
+Terminal=false
+Type=Application
+Categories=Graphics;Viewer;
+StartupNotify=true
+MimeType=image/png;image/gif;image/jpeg;image/bmp;image/svg+xml;

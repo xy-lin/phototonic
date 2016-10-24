@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.vs/phototonic/v14/.suo
+*.dll
+*.user
+
+/release
+/debug
+
+*.obj
+/x64
+/win32
+*.suo
+phototonic.VC.db
+*.opendb
+*.sdf
+/debian
