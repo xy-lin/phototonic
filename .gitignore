@@ -60,3 +60,8 @@ phototonic.VC.db
 *.opendb
 *.sdf
 /debian
+phototonic.opensdf
+/GeneratedFiles
+*.sln
+phototonic.vcxproj
+*.filters
